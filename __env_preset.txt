@@ -1,0 +1,6 @@
+API_ID=12345678
+API_HASH='32bit hash code'
+SESSION_FILE='session_data.txt'
+LIMIT='None' or int
+EXPORT_FORMAT='html' rn only html
+OUTPUT_DIR='exported_chats' any
